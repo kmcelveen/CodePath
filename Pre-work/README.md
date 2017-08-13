@@ -28,6 +28,7 @@ The following **required** functionality is completed:
                   Here's a walkthrough of implemented user stories:
 
                 ![](//i.imgur.com/LvqtI1X.gif)
+                ![](http://i.imgur.com/OUkLi.gif)
 
                   GIF created with [LiceCap](http://www.cockos.com/licecap/).
 

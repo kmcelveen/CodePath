@@ -27,8 +27,7 @@ The following **required** functionality is completed:
 
                   Here's a walkthrough of implemented user stories:
 
-                  #[Walkthrough](http://i.imgur.com/LvqtI1X.gif)
-                  <img src='http://i.imgur.com/LvqtI1X.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+                  [Walkthrough](http://i.imgur.com/LvqtI1X.gif)
 
                   GIF created with [LiceCap](http://www.cockos.com/licecap/).
 

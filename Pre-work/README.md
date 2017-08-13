@@ -27,7 +27,7 @@ The following **required** functionality is completed:
 
                   Here's a walkthrough of implemented user stories:
 
-                ![Video Walkthough]\(http://i.imgur.com/LvqtI1X.gif)
+                ![Video Walkthough](//i.imgur.com/LvqtI1X.gif)
 
                   GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
